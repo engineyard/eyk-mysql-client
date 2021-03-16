@@ -2,6 +2,7 @@
 A container app that runs in your VPC to proxy database commands
 
 
+
 To run a command against the database, deploy this app and the use the provided script.
 
 1. git clone https://github.com/engineyard/eyk-mysql-client.git
